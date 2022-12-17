@@ -58,6 +58,7 @@ export default ()=>{
         ))}
       </section>
       <footer>
+        Feito pelo Erick de Souza Silva<br/>
         Direitos de imagem para Netflix<br/>
         Dados pegos do site Themoviedb.org
       </footer>
